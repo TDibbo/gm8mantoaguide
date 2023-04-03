@@ -8,6 +8,7 @@ As long as the team progression is increasing and not decreasing you will comple
 
 >>> PLUGIN SETUP <<<
 Zebak Puzzle Room: Shift Right Click set barrier to 'Pass'
+Check Menu Entry swaps for Quick-pass & ToA plugin
 Hide Thralls via Entity Hider plugin
 Set Spellbook swap to Arceuus in Menu Swapper Extended
 
@@ -90,6 +91,7 @@ Role 4-8: 2 Tbow into ZCB
 
 Summon Thrall once you're past the tbow range so they are not idling
 Take 2x Venge hits. if HP is below 45 do not take another venge hit
+Prioritise mage pray on blood barrage over range hit.
 ZCB if special attack has regenerated
 
 > Kephri Puzzle
@@ -107,7 +109,7 @@ Brew up, restore, super combat, if dps is good you wont get dung.
 But if dung appears, first two in party order need to dung north-west corner
 
 Phase 1 - all pile ranger, designated north and south blowpiper's begin until rest can help.
-Phase 2 - instant pop after P1 completion, 3 people on solider, 3 people on arcane, once completed clean up swarms
+Phase 2 - instant pop after P1 completion, 2-3 hits from everyone on solider then 2 people on solider, 4 people on arcane, once completed clean up swarms
 Phase 3 - Take two venge hits, special attack regeneration will be available for ZCB, if not then Fang special attack
 
 - GRAB POWER from spirit -
@@ -126,7 +128,7 @@ Thrall only at the start. IF you have GM or MASTER CA's do not use thralls
 Adrenaline on entry
 
 Role 1: Keris Special attack shadows 1, 2 & 4
-Role 2: ZCB shadows 1, 2 & 4
+Role 2: Keris Special attack shadows 3 & final phase Akkha
 Role 3: ZCB shadows 1, 2 & 4
 Role 4-8: ZCB shadows 1, 2 & 4
 
@@ -145,7 +147,7 @@ Brew up to full, prepare adrenaline & spellbook swap
 
 Role 1: Instantly Keris Special 1st Phase, wait will all memebrs are through boulders for 2nd & 3rd phase
 Role 2: Standard ZCB hit (only for entry) into ZCB special attack 1st, 2nd & 3rd phase once Keris Special attack has hit
-Role 3: Instantly BGS (double spec if miss)
+Role 3: Instantly BGS (double spec if miss) then ZCB phase 2 or 3 depending if BGS hit
 Role 4-8: Standard ZCB hit (only for entry) into ZCB special attack 1st, 2nd & 3rd phase once Keris Special attack has hit
 
 Always lure Baba to the bottom of the room as the fall will be a shorter duration
@@ -153,6 +155,7 @@ For boulders you 1-way switch into blowpipe & rigour, first boulder down is a ru
 STAY ABOVE 55 HP FOR ROCK THROW ATTACK!
 
 - GRAB LIFE & take out 2x Abrosia
+- Main Keris does Power again (someone drops them an Ambrosia)
 
 > Warden Boss
 
